@@ -4,3 +4,4 @@ The subject of research is the model of latent regression of aspects and the mod
 The purpose of this work is to compare the performance of classical methods of solving the problem with the method of latent regression of aspects.
 The relevance of the work is related to the increase in the number of texts for processing and the development of machine learning.
 As a result of the work in Python, a set of auxiliary classes was built for writing long short-term memory (LSTM) and latent aspect regression (LAR) neural networks, demonstratively trained to compare the results of aspect analysis on the given data set.
+Further information about work described in .pdf file.
